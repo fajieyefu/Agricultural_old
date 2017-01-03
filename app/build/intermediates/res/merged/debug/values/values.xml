@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+         <item>表单类型</item>
+        <item>请示</item>
+        <item>申请</item>
+    </string-array>
+    <color name="aliceblue">#F0F8FF</color>
+    <color name="antiquewhite">#FAEBD7</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="aquamarine">#7FFFD4</color>
+    <color name="azure">#F0FFFF</color>
+    <color name="beige">#F5F5DC</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="blanchedalmond">#FFEBCD</color>
+    <color name="blue">#0000FF</color>
+    <color name="blueviolet">#8A2BE2</color>
+    <color name="brown">#A52A2A</color>
+    <color name="burlywood">#DEB887</color>
+    <color name="cadetblue">#5F9EA0</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="coral">#FF7F50</color>
+    <color name="cornflowerblue">#6495ED</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="crimson">#DC143C</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="darkblue">#00008B</color>
+    <color name="darkcyan">#008B8B</color>
+    <color name="darkgoldenrod">#B8860B</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="darkgreen">#006400</color>
+    <color name="darkgrey">#A9A9A9</color>
+    <color name="darkkhaki">#BDB76B</color>
+    <color name="darkmagenta">#8B008B</color>
+    <color name="darkolivegreen">#556B2F</color>
+    <color name="darkorange">#FF8C00</color>
+    <color name="darkorchid">#9932CC</color>
+    <color name="darkred">#8B0000</color>
+    <color name="darksalmon">#E9967A</color>
+    <color name="darkseagreen">#8FBC8F</color>
+    <color name="darkslateblue">#483D8B</color>
+    <color name="darkslategray">#2F4F4F</color>
+    <color name="darkslategrey">#2F4F4F</color>
+    <color name="darkturquoise">#00CED1</color>
+    <color name="darkviolet">#9400D3</color>
+    <color name="deeppink">#FF1493</color>
+    <color name="deepskyblue">#00BFFF</color>
+    <color name="dimgray">#696969</color>
+    <color name="dimgrey">#696969</color>
+    <color name="dodgerblue">#1E90FF</color>
+    <color name="firebrick">#B22222</color>
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="forestgreen">#228B22</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="ghostwhite">#F8F8FF</color>
+    <color name="gold">#FFD700</color>
+    <color name="goldenrod">#DAA520</color>
+    <color name="gray">#808080</color>
+    <color name="gray_l">#d2d2d2</color>
+    <color name="green">#008000</color>
+    <color name="green_l">#1cbd70</color>
+    <color name="greenyellow">#ADFF2F</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="hotpink">#FF69B4</color>
+    <color name="indianred">#CD5C5C</color>
+    <color name="indigo">#4B0082</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="lavenderblush">#FFF0F5</color>
+    <color name="lawngreen">#7CFC00</color>
+    <color name="lemonchiffon">#FFFACD</color>
+    <color name="lightblue">#ADD8E6</color>
+    <color name="lightcoral">#F08080</color>
+    <color name="lightcyan">#E0FFFF</color>
+    <color name="lightgoldenrodyellow">#FAFAD2</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="lightgreen">#90EE90</color>
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="lightpink">#FFB6C1</color>
+    <color name="lightsalmon">#FFA07A</color>
+    <color name="lightseagreen">#20B2AA</color>
+    <color name="lightskyblue">#87CEFA</color>
+    <color name="lightslategray">#778899</color>
+    <color name="lightslategrey">#778899</color>
+    <color name="lightsteelblue">#B0C4DE</color>
+    <color name="lightyellow">#FFFFE0</color>
+    <color name="lime">#00FF00</color>
+    <color name="limegreen">#32CD32</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="maroon">#800000</color>
+    <color name="mediumaquamarine">#66CDAA</color>
+    <color name="mediumblue">#0000CD</color>
+    <color name="mediumorchid">#BA55D3</color>
+    <color name="mediumpurple">#9370DB</color>
+    <color name="mediumseagreen">#3CB371</color>
+    <color name="mediumslateblue">#7B68EE</color>
+    <color name="mediumspringgreen">#00FA9A</color>
+    <color name="mediumturquoise">#48D1CC</color>
+    <color name="mediumvioletred">#C71585</color>
+    <color name="midnightblue">#191970</color>
+    <color name="mintcream">#F5FFFA</color>
+    <color name="mistyrose">#FFE4E1</color>
+    <color name="moccasin">#FFE4B5</color>
+    <color name="navajowhite">#FFDEAD</color>
+    <color name="navy">#000080</color>
+    <color name="oldlace">#FDF5E6</color>
+    <color name="olive">#808000</color>
+    <color name="olivedrab">#6B8E23</color>
+    <color name="orange">#FFA500</color>
+    <color name="orangered">#FF4500</color>
+    <color name="orchid">#DA70D6</color>
+    <color name="palegoldenrod">#EEE8AA</color>
+    <color name="palegreen">#98FB98</color>
+    <color name="paleturquoise">#AFEEEE</color>
+    <color name="palevioletred">#DB7093</color>
+    <color name="papayawhip">#FFEFD5</color>
+    <color name="peachpuff">#FFDAB9</color>
+    <color name="peru">#CD853F</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="plum">#DDA0DD</color>
+    <color name="powderblue">#B0E0E6</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF0000</color>
+    <color name="rosybrown">#BC8F8F</color>
+    <color name="royalblue">#4169E1</color>
+    <color name="saddlebrown">#8B4513</color>
+    <color name="salmon">#FA8072</color>
+    <color name="sandybrown">#F4A460</color>
+    <color name="seagreen">#2E8B57</color>
+    <color name="seashell">#FFF5EE</color>
+    <color name="sienna">#A0522D</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="skyblue">#87CEEB</color>
+    <color name="slateblue">#6A5ACD</color>
+    <color name="slategray">#708090</color>
+    <color name="slategrey">#708090</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="springgreen">#00FF7F</color>
+    <color name="steelblue">#4682B4</color>
+    <color name="tan">#D2B48C</color>
+    <color name="teal">#008080</color>
+    <color name="thistle">#D8BFD8</color>
+    <color name="tomato">#FF6347</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="violet">#EE82EE</color>
+    <color name="wheat">#F5DEB3</color>
+    <color name="white">#F4F4F4</color>
+    <color name="white_l">#F4F4F4</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="yellow">#FFFF00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="activity_custom_dialog">对话框</string>
+    <string name="app_name">四监管办公自动化系统</string>
+    <string name="apply_area">申请地区(村庄)：</string>
+    <string name="apply_code">申请单号</string>
+    <string name="apply_content">申请内容：</string>
+    <string name="apply_cun">村：</string>
+    <string name="apply_date">申请日期：</string>
+    <string name="apply_dh">申请单号：</string>
+    <string name="apply_gzq">工 作 区：</string>
+    <string name="apply_lcmc">流程名称：</string>
+    <string name="apply_man">申  请 人 ：</string>
+    <string name="apply_money">申请金额：</string>
+    <string name="apply_name">申请名称：</string>
+    <string name="apply_type">申请类型：</string>
+    <string name="apply_update">提交日期：</string>
+    <string name="base_info">基本信息</string>
+    <string name="contractNUM">合  同 号 ：</string>
+    <string name="contract_A">甲  方  ：</string>
+    <string name="contract_B">乙  方  ：</string>
+    <string name="contract_area">工作区(社区)：</string>
+    <string name="contract_content">合同内容：</string>
+    <string name="contract_date">合同日期：</string>
+    <string name="contract_detail">合同详情</string>
+    <string name="contract_money">合同金额：</string>
+    <string name="contract_name">合同名称：</string>
+    <string name="contract_shequ">社  区  ：</string>
+    <string name="contract_type">合同类型：</string>
+    <string name="datanull">当前无数据！</string>
+    <string name="digital_sign">手写签名</string>
+    <string name="exit">退出</string>
+    <string name="intial_setting">设置</string>
+    <string name="login">登录</string>
+    <string name="login_psw_et">密码</string>
+    <string name="login_user_et">用户名</string>
+    <string name="main_exit">退出登录</string>
+    <string name="not_updated_yet">暂未更新过</string>
+    <string name="pic_detail">附件详细</string>
+    <string name="process_deep">流程详细</string>
+    <string name="process_detail">流程查看</string>
+    <string name="pull_to_refresh">下拉可以刷新</string>
+    <string name="refresh">刷新</string>
+    <string name="refreshing">正在刷新…</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="seal_detail">公章申请详情</string>
+    <string name="sp_c">退回</string>
+    <string name="sp_cancel">返回</string>
+    <string name="sp_clear">清除</string>
+    <string name="sp_contract_list">合同列表</string>
+    <string name="sp_csj">村委书记审批</string>
+    <string name="sp_czr">村委主任审批</string>
+    <string name="sp_des">审批说明：</string>
+    <string name="sp_ds">审批说明：</string>
+    <string name="sp_fgldsp">分管领导审批</string>
+    <string name="sp_gzqsp">工作区审批</string>
+    <string name="sp_jgbsp">经管办审批</string>
+    <string name="sp_list_type">表单类型</string>
+    <string name="sp_man">审  批  人：</string>
+    <string name="sp_n">不通过</string>
+    <string name="sp_name">审批名称：</string>
+    <string name="sp_num">  序    号     ：</string>
+    <string name="sp_qr">审批确认</string>
+    <string name="sp_rs">审批结果：</string>
+    <string name="sp_save">保存</string>
+    <string name="sp_search">检索</string>
+    <string name="sp_start">开始时间：</string>
+    <string name="sp_status">审批状态：</string>
+    <string name="sp_time">审批时间：</string>
+    <string name="sp_title">资金审批</string>
+    <string name="sp_turn">审批顺序：</string>
+    <string name="sp_waiting_list">待审批列表</string>
+    <string name="sp_work_list">工作提醒</string>
+    <string name="sp_y">通过</string>
+    <string name="sp_zgldsp">主管领导审批</string>
+    <string name="time_error">时间有问题</string>
+    <string name="updated_at">上次更新于%1$s前</string>
+    <string name="updated_just_now">刚刚更新</string>
+    <string name="use_address">用章地址：</string>
+    <string name="use_man">用 章 人：</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+
+
+
+
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="AppTheme2" parent="android:Theme.Holo.NoActionBar">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="AppTheme3" parent="android:Theme.Holo.Light.NoActionBar">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Theme.CustomDialog" parent="android:style/Theme.Dialog"/>
+    <style name="btn1" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">50dp</item>
+    </style>
+    <style name="circle_background" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">2dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:background">@drawable/circle_background</item>
+    </style>
+    <style name="login_btn1" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">@drawable/btn1</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="login_edittext1" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@color/ivory</item>
+        <item name="android:gravity">center_vertical|left</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+    </style>
+    <style name="login_edittext2" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@color/ivory</item>
+        <item name="android:gravity">center_vertical|left</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+    </style>
+    <style name="textstyle1" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">93dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginLeft">3dp</item>
+    </style>
+    <style name="textstyle2" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">180dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginLeft">3dp</item>
+    </style>
+    <style name="textstyle3" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="textstyle4" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginLeft">3dp</item>
+    </style>
+    <style name="textstyle5" parent="@android:style/TextAppearance">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">50dp</item>
+    </style>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AgriculturalSystem1\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="F:\AgriculturalSystem1\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-2.5.8-jar-with-dependencies_8a4f0b12e53acaa0413f19185a9d0105d58fb2a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\androidsdk\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\AgriculturalSystem1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_396f3ce3466763263e7e58825e546fd16cb93d83\classes.dex" />
+    </item>
+    <item
+        jar="F:\AgriculturalSystem1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7b011f616458f161bc2be1e520d8f079f18679cf">
+        <dex dex="F:\AgriculturalSystem1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e55ff55094f11bad458c33a0751e004db52e1d4f\classes.dex" />
+    </item>
+    <item
+        jar="F:\AgriculturalSystem1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f2568c1f24eb0785ad6cbbf4e04d5d737be078fa">
+        <dex dex="F:\AgriculturalSystem1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5ffe772239e53030ad9e669089867c31559f0eb0\classes.dex" />
+    </item>
+
+</items>

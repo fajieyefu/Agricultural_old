@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/intial_bg"
+    android:orientation="vertical" >
+
+    <Button
+        android:visibility="invisible"
+        android:id="@+id/intial_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/setting_btn"
+        android:padding="5dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="80dp"
+            android:src="@drawable/agri_logo" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="农村财务平台"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:layout_gravity="center_horizontal"
+            />
+
+
+        <EditText
+            android:id="@+id/login_user"
+            style="@style/login_edittext1"
+            android:layout_marginTop="30dp"
+            android:hint="@string/login_user_et" >
+        </EditText>
+
+        <EditText
+            android:id="@+id/login_psw"
+            style="@style/login_edittext2"
+            android:layout_marginTop="0.1dp"
+            android:hint="@string/login_psw_et"
+            android:textColor="#000000"
+            android:textCursorDrawable="@null" >
+        </EditText>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/login_psw"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="15dp" >
+
+            <Button
+                android:id="@+id/login"
+                style="@style/login_btn1" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

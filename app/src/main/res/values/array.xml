@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="type">
+         <item>表单类型</item>
+        <item>请示</item>
+        <item>申请</item>
+    </string-array>
+
+</resources>

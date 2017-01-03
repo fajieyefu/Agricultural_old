@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contract_detail.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\contract_detail.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fore_activity_main.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\fore_activity_main.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\village_list_item.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\village_list_item.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_view.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\toast_view.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contract_activity.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\contract_activity.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\initial.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\initial.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\popwindow.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\seal_detail.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\seal_detail.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_detail.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\list_detail.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\seal_list_item.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\seal_list_item.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\pull_to_refresh.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\digital_sign.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\digital_sign.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_detail_qs.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\list_detail_qs.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contract_list_item.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\contract_list_item.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\process_detail_nm.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\process_detail_nm.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_activity.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\layout\\login_activity.xml"
+    }
+]

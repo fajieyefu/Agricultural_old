@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/listview_btn">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="1dp" >
+
+        <LinearLayout
+            android:id="@+id/l1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/textstyle1"
+                android:layout_height="wrap_content"
+                android:text="@string/apply_man" />
+
+            <TextView
+                android:id="@+id/apply_man"
+                style="@style/textstyle1"
+                android:layout_width="59dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/textstyle2"
+                android:layout_width="wrap_content"
+                android:text="@string/use_man" />
+
+            <TextView
+                android:id="@+id/use_man"
+                style="@style/textstyle2"
+                android:layout_width="match_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/textstyle2"
+                android:layout_width="wrap_content"
+                android:text="@string/use_address" />
+
+            <TextView
+                android:id="@+id/use_address"
+                style="@style/textstyle2"
+                android:layout_width="match_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/textstyle2"
+                android:layout_width="wrap_content"
+                android:text="@string/apply_date" />
+
+            <TextView
+                android:id="@+id/apply_date"
+                style="@style/textstyle2"
+                android:layout_width="match_parent" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/l7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/textstyle2"
+                android:layout_width="wrap_content"
+                android:text="@string/contract_area" />
+
+            <TextView
+                android:id="@+id/apply_area"
+                style="@style/textstyle2"
+                android:layout_width="match_parent" />
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>

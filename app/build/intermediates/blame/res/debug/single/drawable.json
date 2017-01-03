@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_btn.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\refresh_btn.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_btn.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\listview_btn.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn1.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\btn1.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_btn.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\sign_btn.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_btn.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\exit_btn.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_background.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_item_unpress.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\more_item_unpress.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_btn.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\setting_btn.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn2.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\btn2.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filled_box.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\filled_box.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btn1.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\search_btn1.xml"
+    },
+    {
+        "merged": "F:\\AgriculturalSystem1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_background_btn.xml",
+        "source": "F:\\AgriculturalSystem1\\app\\src\\main\\res\\drawable\\circle_background_btn.xml"
+    }
+]

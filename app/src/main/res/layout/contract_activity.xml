@@ -1,0 +1,64 @@
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    tools:context="com.yiyun.sijianguan.activity.Contract_Activity" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/head"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="4dp" >
+
+        <TextView
+            android:id="@+id/contract_main_top"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/sp_contract_list"
+            android:textColor="#ffffff"
+            android:textSize="25sp" >
+        </TextView>
+    </LinearLayout>
+    <com.yiyun.sijianguan.common.RefreshableView
+        android:id="@+id/contract_refreshable_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="8"
+        android:background="@drawable/bg"
+        android:orientation="vertical"
+        android:padding="3dp" >
+
+        <ListView
+            android:id="@+id/contract_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="vertical" >
+        </ListView>
+
+        <TextView
+            android:id="@id/android:empty"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </com.yiyun.sijianguan.common.RefreshableView>
+
+    <FrameLayout
+        android:id="@+id/contract_main_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_weight="1"
+        android:background="@drawable/bottom" >
+
+        <Button
+            android:id="@+id/contract_refresh"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:background="@drawable/refresh_btn" />
+    </FrameLayout>
+
+</LinearLayout>

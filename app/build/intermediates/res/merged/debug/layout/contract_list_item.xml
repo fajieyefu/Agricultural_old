@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/listview_btn">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="1dp" >
+
+        <LinearLayout
+            android:id="@+id/l1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/textstyle1"
+                android:layout_height="wrap_content"
+                android:text="@string/apply_man" />
+
+            <TextView
+                android:id="@+id/contract_man"
+                style="@style/textstyle1"
+                android:layout_width="59dp" />
+
+            <TextView
+                android:id="@+id/contract_code"
+                style="@style/textstyle1"
+                android:layout_width="match_parent"
+                android:gravity="right" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/textstyle2"
+                android:layout_width="wrap_content"
+                android:text="@string/contract_name" />
+
+            <TextView
+                android:id="@+id/contract_name"
+                style="@style/textstyle2"
+                android:layout_width="match_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/textstyle2"
+                android:layout_width="wrap_content"
+                android:text="@string/contract_type" />
+
+            <TextView
+                android:id="@+id/contract_type"
+                style="@style/textstyle2"
+                android:layout_width="match_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/textstyle2"
+                android:layout_width="wrap_content"
+                android:text="@string/contract_date" />
+
+            <TextView
+                android:id="@+id/contract_date"
+                style="@style/textstyle2"
+                android:layout_width="match_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/textstyle2"
+                android:layout_width="wrap_content"
+                android:text="@string/contract_money" />
+
+            <TextView
+                android:id="@+id/contract_money"
+                style="@style/textstyle2"
+                android:layout_width="match_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/textstyle2"
+                android:layout_width="wrap_content"
+                android:text="@string/contract_area" />
+
+            <TextView
+                android:id="@+id/contract_area"
+                style="@style/textstyle2"
+                android:layout_width="match_parent" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/contract_text"
+            style="@style/textstyle2"
+            android:layout_width="match_parent"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/contract_order"
+            style="@style/textstyle2"
+            android:layout_width="match_parent"
+            android:visibility="gone" />
+        <TextView
+            android:id="@+id/contract_A"
+            style="@style/textstyle2"
+            android:layout_width="match_parent"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/contract_B"
+            style="@style/textstyle2"
+            android:layout_width="match_parent"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+</RelativeLayout>

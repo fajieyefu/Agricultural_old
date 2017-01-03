@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:2:1-75:12
+	package
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:11:5-12:23
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:11:22-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:17:5-84
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:17:22-81
+uses-permission#android.permission.VIBRATE
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:18:22-63
+uses-permission#android.permission.CAMERA
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:19:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.INTERNET
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:23:22-70
+uses-feature#android.hardware.camera
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:25:5-60
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:25:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:27:9-57
+application
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:30:5-73:19
+	android:label
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:34:9-41
+	android:allowBackup
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:32:9-35
+	android:icon
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:33:9-45
+	android:theme
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:35:9-41
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:31:9-35
+activity#com.yiyun.sijianguan.activity.HomeActivity
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:36:9-44:20
+	android:label
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:37:13-50
+intent-filter#android.intent.action.MAIN
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:40:25-66
+activity#com.yiyun.sijianguan.activity.Login_Activity
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:45:9-46:51
+	android:screenOrientation
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:45:19-58
+activity#com.yiyun.sijianguan.activity.MainActivity
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:47:9-48:51
+	android:screenOrientation
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:47:19-56
+activity#com.yiyun.sijianguan.activity.Contract_Activity
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:49:9-50:51
+	android:screenOrientation
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:49:19-61
+activity#com.yiyun.sijianguan.activity.Contract_Detail
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:51:9-52:51
+	android:screenOrientation
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:51:19-59
+activity#com.yiyun.sijianguan.activity.Fore_MainActivity
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:53:9-54:51
+	android:screenOrientation
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:53:19-61
+activity#com.yiyun.sijianguan.activity.List_Detail
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:55:9-56:51
+	android:screenOrientation
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:55:19-55
+activity#com.yiyun.sijianguan.activity.List_Detail_Qs
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:57:9-58:51
+	android:screenOrientation
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:57:19-58
+activity#com.yiyun.sijianguan.activity.Process_Detail
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:59:9-60:51
+	android:screenOrientation
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:59:19-58
+activity#com.yiyun.sijianguan.common.Setting
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:61:9-52
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:61:19-49
+activity#com.yiyun.sijianguan.activity.Digital_sign
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:62:9-64:53
+	android:screenOrientation
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:64:13-50
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:63:13-50
+activity#com.yiyun.sijianguan.activity.Pic_res
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:65:9-67:53
+	android:screenOrientation
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:67:13-50
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:66:13-45
+activity#com.yiyun.sijianguan.activity.Seal_Activity
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:68:9-69:51
+	android:screenOrientation
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:68:19-57
+activity#com.yiyun.sijianguan.activity.Seal_Detail
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:70:9-71:51
+	android:screenOrientation
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:70:19-55
+activity#com.yiyun.sijianguan.common.BaseActivity
+ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:72:9-56
+	android:name
+		ADDED from F:\AgriculturalSystem1\app\src\main\AndroidManifest.xml:72:19-54
